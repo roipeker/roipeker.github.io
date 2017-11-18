@@ -1,5 +1,5 @@
-# roipeker.github.io
-# ====================
+roipeker.github.io
+====================
 
 ## Personal portfolio and blog of Rodrigo López (a.k.a. Roi)
 
