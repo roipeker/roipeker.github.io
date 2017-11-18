@@ -10,5 +10,5 @@ https://github.com/roipeker/
 My Github Pages repo can be found at:   
 https://github.com/roipeker/roipeker.github.io/
 
-And, soon, you can see my custom homepage at:
+And, soon, you can see my custom homepage at:   
 http://roipeker.github.io/
