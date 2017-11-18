@@ -4,10 +4,10 @@ roipeker.github.io
 
 This is my first try at github pages with a new account!
 
-My Github user page is at: 
+My Github user page is at:   
 https://github.com/roipeker/
 
-My Github Pages repo can be found at:  
+My Github Pages repo can be found at:   
 https://github.com/roipeker/roipeker.github.io/
 
 And, soon, you can see my custom homepage at:
